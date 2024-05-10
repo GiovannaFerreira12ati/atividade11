@@ -4,9 +4,11 @@
 }
 
 :root{
-    --main-background:#f0fdf4
+    --main-background:#f0fdf4;
+    --text-color:#042f2e;
 }
 
 body{
     background: var(--main-background);
+    color: var(--text-color);
 }
